@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NailaFatima/static/css/main.13c08ff4.css",
+    "main.js": "/NailaFatima/static/js/main.0f998436.js",
+    "index.html": "/NailaFatima/index.html",
+    "main.13c08ff4.css.map": "/NailaFatima/static/css/main.13c08ff4.css.map",
+    "main.0f998436.js.map": "/NailaFatima/static/js/main.0f998436.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13c08ff4.css",
+    "static/js/main.0f998436.js"
+  ]
+}
